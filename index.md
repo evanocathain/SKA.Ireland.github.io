@@ -3,6 +3,7 @@ layout: default
 title: Home
 ---
 
-# Motivation
+# TBD
 
-This site is intended to be the home of SKA Ireland community. 
+This site is just a placeholder for now.
+
